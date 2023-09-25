@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a5d0459-66ed-4072-b04a-9db068b221f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/Q1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/logic/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/logic/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/logic/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/logic/TemplateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/logic/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/main/DiscordMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/test/ChannelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1/src/test/ServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/Q2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/disease/Covid19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/disease/Delta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/disease/Disease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/disease/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/disease/Hypopnea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/test/Covid19Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/test/DeltaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/test/HospitalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/util/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/util/R0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2/src/util/SevereLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/Q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/PlayerSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/ShopApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/deck/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/deck/PremadeDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/game/CardQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/game/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/game/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/place/AddCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/place/Encounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/place/Merger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/place/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/place/Places.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/place/PlacesList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/place/PowerBoost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/util/ChoiceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/util/CloneUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/application/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/logic/card/BaseCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/logic/card/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/logic/card/MageCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/logic/card/OrbCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/logic/card/RobotCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/logic/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/test/TestMageCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/test/TestOrbCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3/src/test/TestRobotCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm2021_2110215_6530375021_Winithra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2VsIVuQJmmkJ7XTwXFtupkKa9I2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "/Users/winithraks/IdeaProjects/midterm2021_2110215_6530375021_Winithra",
+    "onboarding.tips.debug.path": "/Users/winithraks/IdeaProjects/midterm2021_2110215_6530375021_Winithra/Q3/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Q3/src/test" />
+      <recent name="$PROJECT_DIR$/Q3/src/application" />
+      <recent name="$PROJECT_DIR$/Q3/src/application/place" />
+      <recent name="$PROJECT_DIR$/Q3/src/application/util" />
+      <recent name="$PROJECT_DIR$/Q3/src/application/game" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a5d0459-66ed-4072-b04a-9db068b221f2" name="Changes" comment="" />
+      <created>1695618387877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695618387877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q1/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q2/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q3/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
